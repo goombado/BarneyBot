@@ -35,7 +35,7 @@ BarneyBot is/was a Discord Bot that I cobbled together over the course of my fin
 
 ## What I learnt - a TL;DR
 
-I made Barney almost with the sole purpose to get better at Python and Programming. I did lots of research and learnt many concepts on the fly, often after a consequence of not having implemented said consequence. As a quick list of things this taught me:
+I made Barney almost with the sole purpose to get better at Python and Programming. I did lots of research and learnt many concepts on the fly, often after a consequence of not having implemented said concept. As a quick list of things this taught me:
 
 Regex; Advanced filtering and character identification; OCR; Image manipulation; Permissions, ownership and inheritence; Event handling and listeners; OAuth 2.0; API usage; Game design(?); Speech-to-text recognition and how hard it is; JavaScript and Promises; Pagification and information presentability
 
