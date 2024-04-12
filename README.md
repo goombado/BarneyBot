@@ -4,6 +4,8 @@ BarneyBot is/was a Discord Bot that I cobbled together over the course of my fin
 
 <a name="toc"/>
 
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
 ## Table of Contents  
 
 [What I learnt - a TL;DR](#tldr)
