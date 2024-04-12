@@ -1,0 +1,125 @@
+{
+    "username": "booblewail",
+    "expiry": "28/04/2022 10:00:08",
+    "index": 0,
+    "lvlIndex": 0,
+    "chromaIndex": 0,
+    "data": [
+        {
+            "name": "Singularity Spectre",
+            "cost": 2175,
+            "icon": "https://media.valorant-api.com/weaponskins/0eab3e5c-4de4-e221-34fb-2ab435c89eb6/displayicon.png",
+            "video": null,
+            "chromas": [
+                {
+                    "name": "Level 5\n(Variant 1 Blue)",
+                    "icon": "https://media.valorant-api.com/weaponskinchromas/9f4b2fa6-4de6-e59a-927f-ea86203824b0/displayicon.png",
+                    "video": null
+                },
+                {
+                    "name": "Level 6\n(Variant 2 Red)",
+                    "icon": "https://media.valorant-api.com/weaponskinchromas/6779fd51-4671-d13f-c3c4-7f8e7a32e107/displayicon.png",
+                    "video": null
+                },
+                {
+                    "name": "Level 7\n(Variant 3 Purple)",
+                    "icon": "https://media.valorant-api.com/weaponskinchromas/9c0f0344-4582-176f-8920-3a947e968675/displayicon.png",
+                    "video": null
+                }
+            ],
+            "levels": [
+                {
+                    "name": "Level 2",
+                    "type": "VFX",
+                    "icon": "https://media.valorant-api.com/weaponskinlevels/53068012-45a5-232e-0bd7-d5aa786c0347/displayicon.png",
+                    "video": "https://media.valorant-api.com/streamedvideos/release-04.08/44890722-4541-10f1-dee0-9580c96c854c.mp4"
+                },
+                {
+                    "name": "Level 3",
+                    "type": "Animation",
+                    "icon": "https://media.valorant-api.com/weaponskinlevels/d9c7f033-42e9-57c8-7e94-dd9294018e44/displayicon.png",
+                    "video": "https://media.valorant-api.com/streamedvideos/release-04.08/5d618c35-44e1-8233-d25e-9e900047bfc2.mp4"
+                },
+                {
+                    "name": "Level 4",
+                    "type": "Finisher",
+                    "icon": "https://media.valorant-api.com/weaponskinlevels/ccba3803-510b-4af4-a2bd-f530d8725fd1/displayicon.png",
+                    "video": "https://media.valorant-api.com/streamedvideos/release-04.08/30d9689f-4032-1ede-7298-c6b73459ccb6.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Hack",
+            "cost": 3550,
+            "icon": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/displayicon.png",
+            "video": null,
+            "chromas": [],
+            "levels": [
+                {
+                    "name": "& Slash",
+                    "type": "Animation",
+                    "icon": null,
+                    "video": "https://media.valorant-api.com/streamedvideos/release-04.08/e1708e74-41fe-1b8c-99b5-3285ff3237e4.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Reaver Knife",
+            "cost": 3550,
+            "icon": "https://media.valorant-api.com/weaponskins/0aecb2b8-49cc-560e-42c7-6cbce44f05cf/displayicon.png",
+            "video": null,
+            "chromas": [],
+            "levels": [
+                {
+                    "name": "Level 2",
+                    "type": "VFX",
+                    "icon": null,
+                    "video": "https://media.valorant-api.com/streamedvideos/release-04.08/6cbc9c94-41f1-aed0-7be6-5ebde7ab54fc.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Prime//2.0 Odin",
+            "cost": 1775,
+            "icon": "https://media.valorant-api.com/weaponskins/157bcebe-484d-82e2-2a60-c8b4b11197ea/displayicon.png",
+            "video": null,
+            "chromas": [
+                {
+                    "name": "Level 4\n(Variant 1 Gold)",
+                    "icon": "https://media.valorant-api.com/weaponskinchromas/ed34c641-4f1d-e38f-0018-4cb11fed9ee7/displayicon.png",
+                    "video": null
+                },
+                {
+                    "name": "Level 4\n(Variant 2 Green)",
+                    "icon": "https://media.valorant-api.com/weaponskinchromas/8617ebbb-418a-0819-1ca2-b383f8ae757c/displayicon.png",
+                    "video": null
+                },
+                {
+                    "name": "Level 4\n(Variant 3 Orange)",
+                    "icon": "https://media.valorant-api.com/weaponskinchromas/20ebb41a-4edc-0fa3-f3e9-b3b5d91e8524/displayicon.png",
+                    "video": null
+                }
+            ],
+            "levels": [
+                {
+                    "name": "Level 2",
+                    "type": "VFX",
+                    "icon": null,
+                    "video": "https://media.valorant-api.com/streamedvideos/release-04.08/3ed8e0ec-48d9-5e12-58a7-9d9ea5e4fe4f.mp4"
+                },
+                {
+                    "name": "Level 3",
+                    "type": "Animation",
+                    "icon": null,
+                    "video": "https://media.valorant-api.com/streamedvideos/release-04.08/f5aad4e7-437b-cb06-8cef-01b3dc04db72.mp4"
+                },
+                {
+                    "name": "Level 4",
+                    "type": "Finisher",
+                    "icon": null,
+                    "video": "https://media.valorant-api.com/streamedvideos/release-04.08/2ff2f95b-4199-a00a-08b7-df8a3a564d00.mp4"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore Discord Logs
+discord.log
+
+# Ignore the build directory
+/dist
+
+# The file containing environment variables 
+.env
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
+
+# Google Drive
+.tmp.drivedownload/
+.tmp.driveupload/
+
+# weird keys
+private.key
+example_config.yml
+
+
+# other temp files and directories
+__pycache__/
+*.pyc
+desktop.ini
+.DS_Store
+Thumbs.db

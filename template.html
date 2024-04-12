@@ -1,0 +1,64 @@
+<html>
+<body>
+	<link href="https://github.com/stipub/stixfonts/raw/master/OTF/STIX2Math.otf" rel="maths-font">
+	<script src="https://www.desmos.com/api/v1.5/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+	<div id="calculator" style="width: 1000px; height: 600px;"></div>
+	<script>
+		var elt = document.getElementById('calculator');
+		var calculator = Desmos.GraphingCalculator(elt);
+		__EQUATIONS_HERE__
+	</script>
+	<style type="text/css">
+		.tg  {border-collapse:collapse;border-spacing:0;}
+		.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+		  overflow:hidden;padding:10px 5px;word-break:normal;}
+		.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+		  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+		.tg .tg-0lax{text-align:left;vertical-align:top}
+		.space { margin-top: 30px; }
+		@font-face { font-family: "Maths"; src: url('https://github.com/stipub/stixfonts/raw/master/OTF/STIX2Math.otf') format(woff);  }
+		h3 {
+        	font-family: "maths-font"
+      	}
+	</style>
+	<br />
+	__MAIN_EQUATION__
+	<table class="tg">
+		<tr>
+			XVALUES_HERE
+		</tr>
+		<tr>
+			YVALUES_HERE
+		</tr>
+	</table>
+	<div class="space"></div>
+	__EQN_LIMITS__
+	<div class="space"></div>
+	<div class="space"></div>
+	__DERIVATIVE_EQN__
+	<table class="tg">
+		<tr>
+			DERIVATIVE_X_VALUES_HERE
+		</tr>
+		<tr>
+			DERIVATIVE_Y_VALUES_HERE
+		</tr>
+	</table>
+	<div class="space"></div>
+	__DER_LIMITS__
+	<div class="space"></div>
+	<div class="space"></div>
+	__DOUBLE_DER_EQN__
+	<table class="tg">
+		<tr>
+			DOUBLE_DEV_X_VALUES_HERE
+		</tr>
+		<tr>
+			DOUBLE_DEV_Y_VALUES_HERE
+		</tr>
+	</table>
+	<div class="space"></div>
+	__DOUBLE_DER_LIMITS__
+	<div class="space"></div>
+</body>
+</html>

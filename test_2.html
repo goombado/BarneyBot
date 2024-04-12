@@ -1,0 +1,125 @@
+<html>
+<body>
+	<script src="https://www.desmos.com/api/v1.5/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+	<div id="calculator" style="width: 1000px; height: 600px;"></div>
+	<script>
+		var elt = document.getElementById('calculator');
+		var calculator = Desmos.GraphingCalculator(elt);
+		calculator.setExpression({ id: 'original', latex: 'y=1/x', lineStyle: Desmos.Styles.SOLID });
+		calculator.setExpression({ id: 'derivative', latex: 'y=-1/x^2', lineStyle: Desmos.Styles.SOLID });
+		calculator.setExpression({ id: 'double-derivative', latex: 'y=2/x^3', lineStyle: Desmos.Styles.SOLID });
+		calculator.setExpression({ id: 'h_asymp_1', latex: 'y=0', lineStyle: Desmos.Styles.DASHED });
+		calculator.setExpression({ id: 'h_asymp_2', latex: 'y=0', lineStyle: Desmos.Styles.DASHED });
+		calculator.setExpression({ id: 'v_asymp_0', latex: 'x=0', lineStyle: Desmos.Styles.DASHED });
+	</script>
+	<style type="text/css">
+		.tg  {border-collapse:collapse;border-spacing:0;}
+		.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+		  overflow:hidden;padding:10px 5px;word-break:normal;}
+		.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+		  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+		.tg .tg-0lax{text-align:left;vertical-align:top}
+		.space { margin-top: 30px; }
+	</style>
+	<br />
+	MAIN EQUATION: 1/x
+	<table class="tg">
+		<tr>
+			<th class="tg-0lax">x</th>
+			<th class="tg-0lax">-3</th>
+			<th class="tg-0lax">-2</th>
+			<th class="tg-0lax">-1</th>
+			<th class="tg-0lax">0</th>
+			<th class="tg-0lax">1</th>
+			<th class="tg-0lax">2</th>
+			<th class="tg-0lax">3</th>
+		</tr>
+		<tr>
+			<th class="tg-0lax">y</th>
+			<th class="tg-0lax">-1/3</th>
+			<th class="tg-0lax">-1/2</th>
+			<th class="tg-0lax">-1</th>
+			<th class="tg-0lax">*</th>
+			<th class="tg-0lax">1</th>
+			<th class="tg-0lax">1/2</th>
+			<th class="tg-0lax">1/3</th>
+		</tr>
+	</table>
+	<div class="space"></div>
+	As x --> oo, y --> 0 from the +ve.  
+	As x --> -oo, y --> 0 from the -ve.  
+	<div class="space"></div>
+	As x --> 0 from the +ve, y --> oo.  
+	As x --> 0 from the -ve, y --> -oo.  
+	<div class="space"></div>
+	<div class="space"></div>
+	<div class="space"></div>
+	DERIVATIVE EQUATION: y'=-1/x^2
+	<table class="tg">
+		<tr>
+			<th class="tg-0lax">x</th>
+			<th class="tg-0lax">-3</th>
+			<th class="tg-0lax">-2</th>
+			<th class="tg-0lax">-1</th>
+			<th class="tg-0lax">0</th>
+			<th class="tg-0lax">1</th>
+			<th class="tg-0lax">2</th>
+			<th class="tg-0lax">3</th>
+		</tr>
+		<tr>
+			<th class="tg-0lax">y'</th>
+			<th class="tg-0lax">-1/9</th>
+			<th class="tg-0lax">-1/4</th>
+			<th class="tg-0lax">-1</th>
+			<th class="tg-0lax">*</th>
+			<th class="tg-0lax">-1</th>
+			<th class="tg-0lax">-1/4</th>
+			<th class="tg-0lax">-1/9</th>
+		</tr>
+	</table>
+	<div class="space"></div>
+	As x --> oo, y --> 0 from the -ve
+
+	As x --> -oo, y --> 0 from the -ve
+
+	<div class="space"></div>
+	As x --> 0 from the +ve, y --> -oo
+	As x --> 0 from the -ve, y --> -oo
+	<div class="space"></div>
+	<div class="space"></div>
+	<div class="space"></div>
+	MAIN EQUATION: y''=2/x^3
+	<table class="tg">
+		<tr>
+			<th class="tg-0lax">x</th>
+			<th class="tg-0lax">-3</th>
+			<th class="tg-0lax">-2</th>
+			<th class="tg-0lax">-1</th>
+			<th class="tg-0lax">0</th>
+			<th class="tg-0lax">1</th>
+			<th class="tg-0lax">2</th>
+			<th class="tg-0lax">3</th>
+		</tr>
+		<tr>
+			<th class="tg-0lax">y''</th>
+			<th class="tg-0lax">-2/27</th>
+			<th class="tg-0lax">-1/4</th>
+			<th class="tg-0lax">-2</th>
+			<th class="tg-0lax">*</th>
+			<th class="tg-0lax">2</th>
+			<th class="tg-0lax">1/4</th>
+			<th class="tg-0lax">2/27</th>
+		</tr>
+	</table>
+	<div class="space"></div>
+	As x --> oo, y --> 0 from the +ve
+
+	As x --> -oo, y --> 0 from the -ve
+
+	<div class="space"></div>
+	As x --> 0 from the +ve, y --> oo
+	As x --> 0 from the -ve, y --> -oo
+	<div class="space"></div>
+	<div class="space"></div>
+</body>
+</html>

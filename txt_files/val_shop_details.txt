@@ -1,0 +1,1487 @@
+{
+    "402764753195368448": {
+        "username": "TheReformedTwiddler",
+        "expiry": "30/04/2022 09:59:59",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Horizon Bulldog",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskins/e931dcc8-48d4-f895-48b1-199ec573625b/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Tethered Realms Operator",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/e7ba6cec-495f-e08e-f8eb-6e90228bdf9e/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Prime Guardian",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/2a049f35-4bcd-af25-21fd-ec942e2d5007/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 5\r\n(Variant 1 Orange)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/4ca16478-40c7-2cf6-bdd2-099761921e61/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 6\r\n(Variant 2 Blue)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/e866f273-4acc-806f-becd-56a6bef48fbc/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 7\r\n(Variant 3 Yellow)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/22f831db-4e55-6280-9078-d9b63ae93e4d/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/edc646b0-4a5a-6a76-a860-6b8db95bd132/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/26b4a8b8-b28f-493d-8f39-93d19f73a910.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/14b04b38-4359-62a3-ab62-bcbe715e3fa0/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/9de9bf52-dfca-4d99-8fd3-51a85ca3bcef.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/99b7b761-41b3-e26c-ceeb-b9a1c3a67736/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/70b5e747-f59e-4064-99d3-73a5612c0cab.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Gaia's Wrath",
+                "cost": 3550,
+                "icon": "https://media.valorant-api.com/weaponskins/f91a1dd8-4f5f-bce4-f01d-4da95322c485/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 2 (Variant 1 Blue)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/fb48ae62-4e5f-60b9-6a81-8084d1cb210d/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/5cfd4c3a-4ba8-7a99-85cb-d4a16ad42c56.mp4"
+                    },
+                    {
+                        "name": "Level 2 (Variant 2 Green)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/ecc6237b-4110-831b-aaac-f99d913c55ac/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/86d7ef01-4d56-1fb9-e3f9-46800fb22cef.mp4"
+                    },
+                    {
+                        "name": "Level 2 (Variant 3 Orange)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/deb72528-49ed-1943-4aed-da9248663a5a/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/5840fcb3-4cb5-0eca-6192-0eab3b6f3601.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/33b39794-4bc4-b6c5-c4dc-a1859fb944a9.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    "249029217524645889": {
+        "username": "markimoofan69",
+        "expiry": "01/05/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Spectrum Guardian",
+                "cost": 2675,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/52dd7feb-4e82-2fcb-c341-2aa308321064/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 4\n(Variant 1 Black)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/fa3cea63-4bbd-ebf6-808c-d1ae736f0dd4/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/1cf38571-42ce-a466-e56f-93987ca98505.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 2 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/59432b53-44bc-6e8e-c341-f083a9f759da/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/e2e22fdd-423b-f01e-a7b6-2fb477eed0f8.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 3 Purple/Pink)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/d1e44ee7-4089-6358-f980-0ebd4a7c88a7/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/9b85f470-420a-3bc3-4cc9-408c827d3a37.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/65878abe-4abf-fb80-c97e-70a0e1818909.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": null,
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/1fbad515-44c3-123e-8e80-96a4a4bf40ca/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/3e52a226-423c-7c7b-454f-ba91baf6a980.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/0da207eb-4715-f431-90b4-a0944cce79f5.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Horizon Vandal",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskins/9d71edb0-453c-defa-507d-57aa2935b379/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Protocol 781-A Spectre",
+                "cost": 2475,
+                "icon": "https://media.valorant-api.com/weaponskins/eaa73ab9-4688-0c40-09ad-85b535a50723/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 5\n(Variant 1 White/Pink)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/550b6848-41e1-672a-d65b-02ba323f7589.mp4"
+                    },
+                    {
+                        "name": "Level 5\n(Variant 2 Red/Blue)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/6b612f9e-42be-32f2-e9c1-a3b9e3b02402.mp4"
+                    },
+                    {
+                        "name": "Level 5\n(Variant 3 Green)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/b52512ba-4fc4-19de-2734-d1a058d2d184.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/6ccbd200-45b8-6050-c492-f5bbc0e77bdf.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/dba6cb5e-43b3-7af4-bfd3-e6b5c483affc.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/c468344d-4c56-99c9-8145-7f9232611237.mp4"
+                    },
+                    {
+                        "name": "Level 5 - Localized voice-over may differ in your region",
+                        "type": "Voiceover",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/626c69ea-4d80-aa02-9573-06885eb07f4c.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Ego Stinger",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/ff619aae-4a06-acaa-39a6-0c8c561952f9/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 2\r\n(Variant 1 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/9e275417-423d-5052-e897-c8aaa3bcd2c6/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 3\r\n(Variant 2 Tan)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/b4015264-4dc8-3be7-4b5e-64861bccf633/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 4\r\n(Variant 3 Pink)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/f2c3f510-4542-4c56-bc48-a4a2c44774a9/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": []
+            }
+        ]
+    },
+    "236682223128936448": {
+        "username": "JGnuyen",
+        "expiry": "01/05/2022 10:00:00",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Spectrum Bulldog",
+                "cost": 2675,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/8193b0d6-4f05-42f0-88fc-a9a8fca32f51/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 4\n(Variant 1 Black)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/ebdec31c-4241-295f-9647-97ae70639468/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/bd0c312e-48f2-435c-f357-8eb4d2e6ae6d.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 2 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/a3ade5a6-4c44-83f5-d26d-4eb09dcf65f5/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/39606be5-4f42-c771-4d90-77a39d102ec9.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 3 Purple/Pink)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/374c6007-431e-a9d9-279a-f7a9830e50e1/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/fa7bb692-4d59-7576-d542-d1b0ece0b6ad.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": null
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": null,
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/674ca080-4624-3550-d1f3-dfac17d40918/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/622bdacc-4827-c471-f72e-8c861a80201d.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/c415f590-41f9-30ca-53fb-beaeac071832.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Winterwunderland Vandal",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/2f27fbff-452f-49c7-5370-129fb5548e44/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Avalanche Marshal",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskins/dd58ab43-4ff3-659e-8f30-b8bd26619d4d/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Aristocrat Stinger",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/c78e4616-4499-7926-0f1e-93977020063f/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            }
+        ]
+    },
+    "226567954551144449": {
+        "username": "joshuaylee",
+        "expiry": "27/04/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Ion Sheriff",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/83778c03-45a3-67a2-3c89-6b8598327d58/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/f8c2e883-453f-99b2-06b6-5ea30b33b7ac.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/ad9f078e-4088-4e60-71a7-4d8d38027a19.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/21d51f61-43d2-250e-16e8-ab810c2a6907.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Prism Ghost",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskins/8163db1a-4e3c-8f11-92fd-bc9e26253593/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Magepunk Marshal",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/27ab5ed6-4614-d5c2-c53f-5391febe7099/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 4\r\n(Variant 1 Green)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/1d14c17c-42fe-29ac-92ec-77b295e47546/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 4\r\n(Variant 2 Purple)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/90252399-43e6-7970-1f86-96942f1f26b4/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 4\r\n(Variant 3 Orange)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/49c54513-4b64-0019-9742-96aa1e6ee727/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/1b09c0a3-4708-3bec-26b1-e885a5bb313a/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/4d9040a2-4c53-990a-483d-a2b8f85572ef.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/9e70420e-4ac5-72c0-6e00-35882e13fc06/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/a7fb989a-4fca-71e3-9169-a68f016ed3ca.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/3ba019cb-468e-d53a-e92d-c2a3ff804f59/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/64f8e1a5-4292-11df-c5b7-9d913e76e793.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Glitchpop Axe",
+                "cost": 4350,
+                "icon": "https://media.valorant-api.com/weaponskins/f0c42e14-4a92-132d-dfd4-cbbef103340c/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "Animation",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/e02cc920-465e-3f1c-b0cf-2e9e79cbdcaa.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    "203491015808516096": 0,
+    "185165742495367168": 0,
+    "183880560454664192": {
+        "username": "ruustar",
+        "expiry": "02/05/2022 10:00:00",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Endeavour Bulldog",
+                "cost": 875,
+                "icon": "https://media.valorant-api.com/weaponskins/3f8be578-4e47-8afd-1e6c-cb9bb326e8b5/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Singularity Spectre",
+                "cost": 2175,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/da0d77b2-49b4-148d-e32e-d79aef1b3829/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 5\n(Variant 1 Blue)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/9f4b2fa6-4de6-e59a-927f-ea86203824b0/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 6\n(Variant 2 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/6779fd51-4671-d13f-c3c4-7f8e7a32e107/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 7\n(Variant 3 Purple)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/9c0f0344-4582-176f-8920-3a947e968675/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/53068012-45a5-232e-0bd7-d5aa786c0347/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/44890722-4541-10f1-dee0-9580c96c854c.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/d9c7f033-42e9-57c8-7e94-dd9294018e44/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/5d618c35-44e1-8233-d25e-9e900047bfc2.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/ccba3803-510b-4af4-a2bd-f530d8725fd1/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/30d9689f-4032-1ede-7298-c6b73459ccb6.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Sentinels of Light Sheriff",
+                "cost": 2175,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/feab1ba7-4695-f052-7563-a380eb896784/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 4\r\n(Variant 1 Pink)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/03ba7fcd-410d-90d0-eb13-9cbefa221eeb/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/eda70ae0-476e-ee8b-3262-d6b230381c1c.mp4"
+                    },
+                    {
+                        "name": "Level 4\r\n(Variant 2 Red/Green)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/810f8c7e-4717-42e2-97e2-418606f83e28/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/8d44d40a-4811-9483-0788-8696d8644c87.mp4"
+                    },
+                    {
+                        "name": "Level 4\r\n(Variant 3 Blue/Purple)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/ce3c606b-46bd-2554-fc23-bdb01b9d9fd0/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/31cc089e-4bdd-2f5c-0073-e187667d1024.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/1fef6765-471a-5d6d-8efd-f38e003a82fb.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/19fb9888-4279-39fd-5d71-bb856ace1227.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/b3ea0957-4c4a-18f6-fd4a-eca56aab254d.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Sakura Stinger",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/62c17d02-4adc-c1b4-612c-f2867fd4955a/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            }
+        ]
+    },
+    "882994478070263869": 0,
+    "211810742003957761": 0,
+    "262855515061616640": 0,
+    "294704800824688640": 0,
+    "183880246917988353": 0,
+    "260742969588580352": 0,
+    "159985870458322944": 0,
+    "265783557715263489": 0,
+    "695472410853638144": 0,
+    "251692510563270658": 0,
+    "464304028550168578": 0,
+    "297301528488968192": 0,
+    "194323407431532544": 0,
+    "883218276501573693": 0,
+    "559667485138485252": 0,
+    "185285433012387840": 0,
+    "237078081615953920": 0,
+    "192957897192374272": {
+        "username": "peendrip",
+        "expiry": "01/05/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "VALORANT GO! Vol. 2 Vandal",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/730adb1b-4e94-f597-9f21-60b758da1156/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Ion Operator",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/54ea8ba8-4bcb-eb63-70d2-4da7520fade2/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/5c1f0a2d-42ff-b28f-806d-2d80cf1ad908.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/6cafdacd-4c39-5dda-3f71-b2b97f3e29d7.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/cdbc1f83-4eef-12e4-4e93-24bc25a03627.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Singularity Spectre",
+                "cost": 2175,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/da0d77b2-49b4-148d-e32e-d79aef1b3829/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 5\n(Variant 1 Blue)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/9f4b2fa6-4de6-e59a-927f-ea86203824b0/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 6\n(Variant 2 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/6779fd51-4671-d13f-c3c4-7f8e7a32e107/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 7\n(Variant 3 Purple)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/9c0f0344-4582-176f-8920-3a947e968675/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/53068012-45a5-232e-0bd7-d5aa786c0347/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/44890722-4541-10f1-dee0-9580c96c854c.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/d9c7f033-42e9-57c8-7e94-dd9294018e44/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/5d618c35-44e1-8233-d25e-9e900047bfc2.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/ccba3803-510b-4af4-a2bd-f530d8725fd1/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/30d9689f-4032-1ede-7298-c6b73459ccb6.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken Ritual Blade",
+                "cost": 3550,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/30e034a5-41dc-f639-e513-ce95af4a0474/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/47072458-486f-d4b4-2931-ebadbd98c094.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    "284944814183677952": 0,
+    "214191623205158912": 0,
+    "273347745488699392": {
+        "username": "LeMonke89",
+        "expiry": "27/04/2022 09:59:59",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Protocol 781-A Sheriff",
+                "cost": 2475,
+                "icon": "https://media.valorant-api.com/weaponskins/84589da8-4e2b-11bf-ca52-b88e6b7e1dbd/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 5\n(Variant 1 White/Pink)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/08b93bc1-4992-a58a-513e-9fb30a4fbf0b.mp4"
+                    },
+                    {
+                        "name": "Level 5\n(Variant 2 Red/Blue)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/de4d2124-4aad-31c4-b007-80a0d181d3d2.mp4"
+                    },
+                    {
+                        "name": "Level 5\n(Variant 3 Green)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/7fc0e30d-4961-a760-0a64-efad2578a53e.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/513b97f4-422d-101d-73f4-338418d9ca6e.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/85fee292-4c06-aa9e-1194-4e9c41516ac6.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/d2cb8b6c-44c5-06fb-2cfd-39b77fe8e773.mp4"
+                    },
+                    {
+                        "name": "Level 5 - Localized voice-over may differ in your region",
+                        "type": "Voiceover",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/3a4f7fb8-47f5-3a75-220b-ed9281251a21.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Nebula Ares",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/ac65b631-4bd1-b0fa-3313-0da74d4eba9d/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Endeavour Ghost",
+                "cost": 875,
+                "icon": "https://media.valorant-api.com/weaponskins/cd281dcd-4276-1def-11d9-74a4a72db204/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Smite Knife",
+                "cost": 1750,
+                "icon": "https://media.valorant-api.com/weaponskins/46163791-47b9-2ef0-d255-aaa5146051bb/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            }
+        ]
+    },
+    "886178754802622464": 0,
+    "433576662614147076": 0,
+    "546642933928165377": 0,
+    "234607105666056192": 0,
+    "701300915797229573": 0,
+    "188483813159075840": 0,
+    "866846927769436210": 0,
+    "368683631620784129": 0,
+    "704673897760686140": 0,
+    "195841061531287552": 0,
+    "189339029265842176": {
+        "username": "mn3763",
+        "expiry": "28/04/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Undercity Classic",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/ac14dca7-408b-7e8f-8ed0-99b8ed1ffe98/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Undercity Phantom",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/ed3ac995-4fd1-3079-27aa-4aab84447833/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Radiant Crisis 001 Bucky",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/31072cda-4041-b4f0-119a-3692ea598321/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/5bc54564-44a6-60c2-88f9-459985c69109.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/5b662cb6-4e5a-1673-03cd-0dbcdc5e5a67.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Spectrum Classic",
+                "cost": 2675,
+                "icon": "https://media.valorant-api.com/weaponskins/46f32f75-4fc8-7121-8a77-db8db43afc67/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 4\n(Variant 1 Black)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/c2e3235a-426a-0a34-8559-6492ca4434a9/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/4f6a0cb2-4eb4-419f-170a-2bab267cd372.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 2 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/c8ec1980-46c4-83d2-f405-58b36bed40c7/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/68a4477c-46a9-608b-6387-e0a928b9d94a.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 3 Purple/Pink)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/1746329a-450b-db34-eb45-a19c4af64aa8/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/66f72e35-4f2d-c2ff-c715-46b10a2748a4.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/3aed15cf-44fd-2ba3-77df-a88c89fb44ff.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": null,
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/345b4316-42d1-6e90-321d-fa930ef43762/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/3b334d85-4471-86d0-3f9d-3d97c94cbfbc.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.07/9c964366-4400-adf5-d932-66ad1593fe20.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    "637249444080779265": 0,
+    "203672102509740042": {
+        "username": "goombado",
+        "expiry": "01/05/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Radiant Crisis 001 Baseball Bat",
+                "cost": 3550,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/2870c012-4ad1-43d2-348d-2a98cc640833/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/77983946-4d4e-ec11-ec55-73a6f05d4384.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Ego Knife",
+                "cost": 3550,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/9c8ed548-4ad7-6d82-9d1e-a0a57d7e2267/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 2\r\n(Variant 1 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/6af4123b-4266-d051-a27f-d5ab7d97e2ff/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 3\r\n(Variant 2 Tan)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/a392d2bd-46df-7723-bb14-a58e05f33f12/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 4\r\n(Variant 3 Pink)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/4201457d-4144-bf26-55cc-fe979ed827f0/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": []
+            },
+            {
+                "name": "Horizon Spectre",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskins/eb9ec7c9-4c20-e702-81c7-63bbe165aa12/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Sovereign Sword",
+                "cost": 3550,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/3391be35-4eab-936c-f26d-ec810f4454c8/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/5e7f5d27-46ca-abd5-72d8-ecbb413ec217/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/bcf762a1-3d1b-4367-9d11-c5f7eed814f6.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    "730413395618037772": 0,
+    "691609183971311647": 0,
+    "195125563264991232": 0,
+    "197264395196170240": 0,
+    "247852652019318795": 0,
+    "225387860268679168": 0,
+    "745836274031788062": 0,
+    "236002193189240833": 0,
+    "783657182033739837": 0,
+    "444728888635949076": 0,
+    "445757063734231051": 0,
+    "670199563185029120": 0,
+    "284948531423477762": 0,
+    "507970352501227523": 0,
+    "373033173715517440": 0,
+    "187543400482865152": 0,
+    "155149108183695360": 0,
+    "732621248395346020": 0,
+    "442645097230761985": 0,
+    "756840445216292914": 0,
+    "218977515404787712": 0,
+    "365778913948860416": 0,
+    "544425872308961283": 0,
+    "172905228562202624": 0,
+    "753934340500750386": 0,
+    "553486167157243916": 0,
+    "450825911974232065": 0,
+    "236694472883175426": 0,
+    "883248310436106291": 0,
+    "470086166503489536": {
+        "username": "booblewail",
+        "expiry": "01/05/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "BlastX Odin",
+                "cost": 2175,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/f55aac92-4420-7038-634a-8fb3fc9a936d/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 4\n(Variant 1 Black)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/3b809ee0-4af3-b604-9ac4-a799241289e7/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 4\n(Variant 2 Yellow)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/027dda2f-491d-e55e-1d32-acb7f55008f9/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 4\n(Variant 3 Pink)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/e2c992bc-4099-eeac-9e3f-2e9d6a6bf757/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/35e89d1a-477c-3d54-82aa-3599a832fe0b/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/3d8cc4ea-4de2-4863-4c9c-c3b86cc6884c.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/31201e02-4873-a6db-1ce6-6e93a620370c/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/c3008423-4a36-7d58-51f8-81a2eea188c3.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/7637fff1-4275-590a-6181-be95eae8786a/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/463b382a-4a76-4eb3-a699-bc8e856335c4.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Convex Bulldog",
+                "cost": 875,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/1789be1e-42fb-a43a-2f40-eb9b793481b0/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "VALORANT GO! Vol. 1 Guardian",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/2c32d9e3-42a1-7387-35ef-0c8eefacee1c/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Elderflame Frenzy",
+                "cost": 2475,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/eee0c458-474a-b80f-871c-c188f3929a79/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 5\r\n(Variant 1 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/f40759fa-4a3a-3bb1-484e-4fabf878a774/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 6\r\n(Variant 2 Blue)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/a0e8d567-4673-2f0c-7bb0-debb86d3f4ef/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 7\r\n(Variant 3 Dark)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/3f8b9999-4a92-de0a-8a0a-4ebf04258950/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/bd9b6542-8e87-412f-89ef-9af59c11b062.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/340f4fa7-7eca-4c63-b8c3-938a01302947.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/bc78c474-4ce3-4cb6-a887-8d3da7694780.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    "187406062989606912": 0,
+    "350004167932117006": 0,
+    "188800837328306176": {
+        "username": "ThatGuy4234",
+        "expiry": "01/05/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Ruination Phantom",
+                "cost": 2175,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/0d6eac16-4f0f-1014-e6b2-65aa72f2edff/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 4\n(Variant 1 Purple)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/948b7eea-467e-5fc3-4314-d191305fb68e/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/98a9e41f-4618-0dda-4d80-35827b3ecea4.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 2 Red/Yellow)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/7f466f2f-4c80-1222-5c3f-989486cfabc3/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/c52b8f62-462c-411b-118d-54980e56b28a.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 3 Green)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/0ebb5188-4528-d6f6-7576-bb87e980a2d4/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/aae681bd-4c07-378b-6c69-a58ab01e5767.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/eb447856-470d-4019-d99b-7a92c4d07c5a.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": null,
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/fa6e5651-415d-aed3-6e7b-a6b150565597.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/44229d59-4893-31ca-2240-aaa29f94c6e4.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Tigris Shorty",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskins/7b51fc8a-4a5c-712e-c663-e6a7eeb61d91/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Doodle Buds Shorty",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/9a37b09b-4768-b368-52ef-58ac62564637/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 2\r\n(Variant 1 Tactifriends)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/f260084b-411c-8e0c-6353-0f95bd360721.mp4"
+                    },
+                    {
+                        "name": "Level 2\r\n(Variant 2 League of Legends)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/97e007da-49ec-9737-3dd6-6a97e922cf0a.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "KillEffect",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/0de88508-4588-8ada-cfd5-23a89006029b.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Tethered Realms Guardian",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/549b4ed5-493f-23a2-4350-b095dfdd0deb/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            }
+        ]
+    },
+    "870627436876935169": 0,
+    "255966308233904128": 0,
+    "264676005933744128": 0,
+    "347499202214887434": 0,
+    "248302423372726272": 0,
+    "321251351009034240": 0,
+    "760114466472853514": 0,
+    "119482224713269248": 0,
+    "340461609866493953": 0,
+    "508937216383254528": 0,
+    "761179606911942656": {
+        "username": "xuumxuum",
+        "expiry": "01/05/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Prime Axe",
+                "cost": 3550,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/d2e296d9-448e-c58f-2229-14a481906686/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/df1ace24-4acb-e615-24eb-6e95b7e44dc5/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/316137d8-1ce8-4f00-9ee5-97d3df6561de.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Prism Ares",
+                "cost": 1275,
+                "icon": "https://media.valorant-api.com/weaponskins/841c9aab-4005-f7fd-3b67-24b335100fb4/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Personal Administrative Melee Unit",
+                "cost": 4950,
+                "icon": "https://media.valorant-api.com/weaponskins/239ed20b-479c-e08e-c4b5-6ba0394576d4/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 3 (Variant 1 White/Pink)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/0517237a-44b3-af9c-4c17-0fb7f8d59406.mp4"
+                    },
+                    {
+                        "name": "Level 3 (Variant 2 Red/Blue)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/b24545dd-4843-1ef9-4280-439ad5617ceb.mp4"
+                    },
+                    {
+                        "name": "Level 3 (Variant 3 Green)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/a2f6f182-4a34-3ac8-d94c-f7b17286b148.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/13d83044-4c28-76d1-9a93-0b9fd444c343.mp4"
+                    },
+                    {
+                        "name": "Level 3 - Localized voice-over may differ in your region",
+                        "type": "Voiceover",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/332ef0f9-4197-708f-0415-fd8a0922cc7a.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Infantry Operator",
+                "cost": 875,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/37617d36-4092-c473-9573-c69168c1b254/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            }
+        ]
+    },
+    "810716305661100075": 0,
+    "206569367528407041": 0,
+    "186276713364324353": 0,
+    "761178849299267635": 0,
+    "330535151790718976": 0,
+    "894568099964137512": 0,
+    "220125575849705472": 0,
+    "514889412383866905": 0,
+    "488978158062665738": 0,
+    "240380481563131905": {
+        "username": "BanterDoggy",
+        "expiry": "01/05/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Infantry Ares",
+                "cost": 875,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/ae8e1d37-46b6-9b74-ffd9-1fa1b5bac490/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Doodle Buds Ares",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/35beb433-425e-7072-7ac3-9ca95d1d1fd9/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 2\n(Variant 1 Tactifriends)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/e533e91b-4383-907f-67ed-36a9f197be29.mp4"
+                    },
+                    {
+                        "name": "Level 2\n(Variant 2 League of Legends)",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/e631a14c-4d9f-efeb-b249-e6b53f36b628.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "KillEffect",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/e0c5665a-49d3-3525-2749-609b7835825b.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Sovereign Marshal",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/18c67b9a-419d-aa6d-224f-869f7e541fff/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 5\r\n(Variant 1 Gold)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/079e90b2-4492-3f73-95bd-f5b74a7ac295/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 6\r\n(Variant 2 Silver)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/0bb4eab3-4c4d-8b6e-1af5-daa1387d1ff7/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 7\r\n(Variant 3 Purple)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/9d77ed46-4375-65fe-5c2b-54b44bd8e832/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/5dfc0af6-4c03-03b0-7066-6ea1770fe6c0/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/70f3532d-25b3-4fcc-8087-a32d0d099565.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/003665b4-4ff3-881b-5c67-3ebd454d4fab/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/be45b598-6410-4729-8971-3f2e7dc60f97.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/dd1fee10-42ca-1201-5bf8-399a16b25620/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/3ec9e39d-339d-4d83-af58-0dc8a271fc1b.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Spline Spectre",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskinchromas/0eb31648-47c2-7922-a944-c1904757640c/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 2\r\n(Variant 1 Green)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/eea18b44-45a6-e88f-e7e8-2d840cffd413/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 3\r\n(Variant 2 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/025673dd-4beb-03eb-a39d-bbae482674f1/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 4\r\n(Variant 3 Blue)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/611ce1a8-421a-ff42-8142-b6a4a8f5667e/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": []
+            }
+        ]
+    },
+    "668435882914611202": {
+        "username": "CiaranDelaney",
+        "expiry": "30/04/2022 10:00:01",
+        "index": 0,
+        "lvlIndex": 0,
+        "chromaIndex": 0,
+        "data": [
+            {
+                "name": "Origin Vandal",
+                "cost": 1775,
+                "icon": "https://media.valorant-api.com/weaponskins/6c4315b8-4ff1-baaa-5aac-5790c7443353/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 4\n(Variant 1 Green)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/11406ee3-472c-dc1a-98f7-bfa8f2e3658b/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/880bf4e8-41bd-3c51-8594-82bd231f2527.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 2 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/6153bc01-4807-c705-e576-63beb9c8e930/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/062b5169-49b1-4807-5c7d-faafbb730b02.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 3 White)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/0e16ba9e-48d4-85fd-3b76-84abc19932a0/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/cb00905d-4cd0-06cb-da34-10a2bfb9a263.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/e5a31b3b-47a6-a3f6-938d-09b3706bd0fd.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/0359b063-473d-6d2c-57eb-87a1e6d5dfdc.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/fa057e7c-47d9-7e93-3660-bc868752d220.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Sensation Judge",
+                "cost": 875,
+                "icon": "https://media.valorant-api.com/weaponskins/8e27a0b3-4dc9-e2a7-e33a-29a616efc244/displayicon.png",
+                "video": null,
+                "chromas": [],
+                "levels": []
+            },
+            {
+                "name": "Elderflame Vandal",
+                "cost": 2475,
+                "icon": "https://media.valorant-api.com/weaponskins/18609205-4edb-5966-cff8-0fba0230ba1e/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 5\r\n(Variant 1 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/a9873bd5-41f9-170d-27f0-abb68fea0ce9/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 6\r\n(Variant 2 Blue)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/6fb459fa-4368-7d20-106a-629db9825a2b/displayicon.png",
+                        "video": null
+                    },
+                    {
+                        "name": "Level 7\r\n(Variant 3 Dark)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/403f7d3e-4e96-6566-42f3-01b7a803d660/displayicon.png",
+                        "video": null
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/d86e4684-47d3-9a2f-9bd4-01ae3fd3e183/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/05c87353-f55c-4ad6-aa65-f3335dbf3a5a.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": "Animation",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/77569f90-4e7f-7d91-bd18-2aa12bdba709/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/f41600f0-4e3b-40f8-88cd-605cc2d00354.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/4fb025db-471f-3891-6e30-b98866abb2f9/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/71127731-9ce5-4f7a-b9ae-dc55dfe7d9b4.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "Spectrum Classic",
+                "cost": 2675,
+                "icon": "https://media.valorant-api.com/weaponskins/46f32f75-4fc8-7121-8a77-db8db43afc67/displayicon.png",
+                "video": null,
+                "chromas": [
+                    {
+                        "name": "Level 4\n(Variant 1 Black)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/c2e3235a-426a-0a34-8559-6492ca4434a9/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/4f6a0cb2-4eb4-419f-170a-2bab267cd372.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 2 Red)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/c8ec1980-46c4-83d2-f405-58b36bed40c7/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/68a4477c-46a9-608b-6387-e0a928b9d94a.mp4"
+                    },
+                    {
+                        "name": "Level 4\n(Variant 3 Purple/Pink)",
+                        "icon": "https://media.valorant-api.com/weaponskinchromas/1746329a-450b-db34-eb45-a19c4af64aa8/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/66f72e35-4f2d-c2ff-c715-46b10a2748a4.mp4"
+                    }
+                ],
+                "levels": [
+                    {
+                        "name": "Level 2",
+                        "type": "VFX",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/3aed15cf-44fd-2ba3-77df-a88c89fb44ff.mp4"
+                    },
+                    {
+                        "name": "Level 3",
+                        "type": null,
+                        "icon": "https://media.valorant-api.com/weaponskinlevels/345b4316-42d1-6e90-321d-fa930ef43762/displayicon.png",
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/3b334d85-4471-86d0-3f9d-3d97c94cbfbc.mp4"
+                    },
+                    {
+                        "name": "Level 4",
+                        "type": "Finisher",
+                        "icon": null,
+                        "video": "https://media.valorant-api.com/streamedvideos/release-04.08/9c964366-4400-adf5-d932-66ad1593fe20.mp4"
+                    }
+                ]
+            }
+        ]
+    }
+}
