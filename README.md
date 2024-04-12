@@ -2,6 +2,12 @@
 
 BarneyBot is/was a Discord Bot that I cobbled together over the course of my final year of high school. I haven't tried running it in a long time, and I'm 100% certain that changes to the Discord Bot API mean that, in its current state, it will not function. I don't care about him enough to resurrect him, but I want his legacy to live on. Thank you Barney for all you have done. May you and your spaghetti code live on in this public GitHub repo, and may any private keys I've accidentally left in your files be scraped by bots for years to come.
 
+
+
+[TOC]
+
+
+
 ## What I learnt - a Tl;DR
 
 I made Barney almost with the sole purpose to get better at Python and Programming. I did lots of research and learnt many concepts on the fly, often after a consequence of not having implemented said consequence. As a quick list of things this taught me:
